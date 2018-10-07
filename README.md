@@ -6,7 +6,6 @@ Segment duraion- 4 min ;
 Total segment- 149;
 
 10 bitrate representation;
-
    Resolution----Encoding----Rate Quality Level
 1. 320x240-------235kbps-----very low quality
 2. 384x288-------375 kbp-----slow quality
