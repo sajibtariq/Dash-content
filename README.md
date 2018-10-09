@@ -3,11 +3,11 @@ big buck bunny  10 min(9.56min)video  https://goo.gl/m4RgSH ;
 
 Segment duraion- 4 min ;
 
-Total segment- 149;
+Total segment- 149 for each representation;
 
-10 bitrate representation;
+here we use 10 bitrate representation;
 
-At first encode video by this X264 tool and create segment with MP4Box tool
+At first encode video with X264 tool and create segment with MP4Box tool
 
 Resolution----Encoding----Rate Quality Level
 
