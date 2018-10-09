@@ -1,9 +1,13 @@
 # MPD_dashdata
-big buck bunny  10 min(9.56min)video; Segment duraion- 4 min ;
+big buck bunny  10 min(9.56min)video  https://goo.gl/m4RgSH ; 
+
+Segment duraion- 4 min ;
 
 Total segment- 149;
 
 10 bitrate representation;
+
+At first encode video by this X264 tool and create segment with MP4Box tool
 
 Resolution----Encoding----Rate Quality Level
 
