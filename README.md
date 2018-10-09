@@ -1,5 +1,5 @@
 # MPD_dashdata
-big buck bunny  10 min(9.56min)video  https://goo.gl/m4RgSH ; 
+From big buck bunny  10 min (9.56min)video  https://goo.gl/m4RgSH we create mpd file; 
 
 Segment duraion- 4 min ;
 
