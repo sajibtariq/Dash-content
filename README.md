@@ -9,7 +9,7 @@ here we use 10 bitrate representation;
 
 At first encode video with X264 tool and create segment with MP4Box tool
 
-No.of Bitrate Representation--Resolution----Encoding----Rate Quality Level
+No.of Bitrate Representation--Resolution----Bitrate(Encoding)----Rate Quality Level
 
 1. -------------------------------320x240-------235kbps-----very low quality
 
