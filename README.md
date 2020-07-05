@@ -1,4 +1,4 @@
-# MPD_dashdata
+# [MPEG-DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 
 ## How to create dash content
 
