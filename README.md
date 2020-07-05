@@ -10,12 +10,10 @@
 
 ## Content information
 
-- Animation: [Big Buck Bunny](https://goo.gl/m4RgSH ); 
+- Animation: [Big Buck Bunny](https://goo.gl/m4RgSH )
 - Duration: 9.56 min 
 - Segment duraion: 4 min 
 - Total segment: 149 for each representation;
-
-here we use 10 bitrate representation;
 
 | No.of Bitrate Representation | Resolution | Bitrate(Encoding) | Rate Quality Level| 
 | :---:   | :-: | :-: | :---:   | 
